@@ -1,1 +1,5 @@
-![GitHub](https://img.shields.io/github/license/blazsmaster/discord-nitro-generator?style=for-the-bridge) ![GitHub All Releases](https://img.shields.io/github/downloads/blazsmaster/discord-nitro-generator/total?style=flat-square) ![GitHub All Stars](https://img.shields.io/github/stars/blazsmaster/discord-nitro-generator/?style=flat-square)
+![GitHub](https://img.shields.io/github/license/blazsmaster/discord-nitro-generator?style=for-the-badge)
+![GitHub All Releases](https://img.shields.io/github/downloads/blazsmaster/discord-nitro-generator/total?style=for-the-badge)
+![GitHub All Stars](https://img.shields.io/github/stars/blazsmaster/discord-nitro-generator/?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/blazsmaster/discord-nitro-generator?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/blazsmaster/discord-nitro-generator?style=for-the-badge)
