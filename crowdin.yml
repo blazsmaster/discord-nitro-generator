@@ -1,3 +1,0 @@
-files:
-  - source: /main.py
-    translation: /main-%locale%.py
